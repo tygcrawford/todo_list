@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  background: #f0dac1; }
+
+#plus {
+  cursor: pointer;
+  font-size: 50px; }
+
+.note {
+  position: absolute;
+  right: 15px;
+  top: 3.5px;
+  font-size: 30px;
+  color: rgba(255, 255, 255, 0);
+  transition: all 0.75s; }
+
+.close {
+  position: absolute;
+  left: 15px;
+  font-size: 22.5px;
+  color: rgba(255, 255, 255, 0);
+  transition: all 0.75s; }
+
+.close:hover {
+  color: #000; }
+
+h3 {
+  font-family: "Roboto";
+  font-size: 35px;
+  text-align: center;
+  display: block;
+  color: #1abc9c; }
+
+ul {
+  position: relative;
+  padding: 0;
+  width: 220px;
+  background: linear-gradient(#1abc9c, #16a085);
+  list-style-type: none;
+  margin: 50px auto;
+  font-family: "Roboto";
+  color: white;
+  font-size: 20px;
+  align: center; }
+  ul li {
+    position: relative;
+    padding: 10px 45px;
+    text-align: center;
+    display: block;
+    transition: all 0.5s, background 0.5s, box-shadow 0.5s, border 0.5s;
+    width: 130px;
+    left: 0;
+    cursor: pointer;
+    display: box;
+    min-height: 25px; }
+
+.hv:hover {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5) !important;
+  padding: 10px 70px !important;
+  left: -25px !important;
+  z-index: 1 !important; }
+
+.hv:hover .note {
+  color: #FFF; }
+
+.hv:hover .close {
+  color: #FFF; }
+
+#edit_cont {
+  display: none; }
+
+#txt_i {
+  margin: 0;
+  background: none;
+  border: solid 5px #1abc9c;
+  padding: 10px;
+  outline: none;
+  transition: all 0.5s;
+  width: 190px;
+  font-family: "Roboto";
+  color: #1abc9c;
+  font-size: 20px; }
+  #txt_i:focus {
+    border: solid 5px #117964;
+    color: #117964; }
+
+#txt_i:focus + #done {
+  background: #117964; }
+
+#done {
+  cursor: pointer;
+  color: white;
+  transition: all 0.5s;
+  background: #1abc9c;
+  text-align: center;
+  font-size: 20px;
+  width: 220px;
+  margin: auto;
+  padding: 10px 0; }
+
+/*# sourceMappingURL=main.css.map */
