@@ -7,7 +7,7 @@
 		"uuidString": "7A1FDDDE-F77E-481C-A2AE-810B8CA33E2D"
 		}
 	],
-"creatorBuild": "25504",
+"creatorBuild": "25813",
 "files": {
 	"\/.sass-cache\/45c2eb35cce47c7b6882dd950db0c44c447d927f\/main.sassc": {
 		"ft": 8192,
@@ -189,7 +189,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/alert-circled.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/alert.png": {
 		"ft": 32768,
@@ -197,7 +200,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/alert.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-add-contact.png": {
 		"ft": 32768,
@@ -205,7 +211,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-add-contact.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-add.png": {
 		"ft": 32768,
@@ -213,7 +222,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-add.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-alarm.png": {
 		"ft": 32768,
@@ -221,7 +233,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-alarm.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-archive.png": {
 		"ft": 32768,
@@ -229,7 +244,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-archive.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-arrow-back.png": {
 		"ft": 32768,
@@ -237,7 +255,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-arrow-back.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-arrow-down-left.png": {
 		"ft": 32768,
@@ -245,7 +266,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-arrow-down-left.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-arrow-down-right.png": {
 		"ft": 32768,
@@ -253,7 +277,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-arrow-down-right.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-arrow-forward.png": {
 		"ft": 32768,
@@ -261,7 +288,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-arrow-forward.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-arrow-up-left.png": {
 		"ft": 32768,
@@ -269,7 +299,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-arrow-up-left.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-arrow-up-right.png": {
 		"ft": 32768,
@@ -277,7 +310,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-arrow-up-right.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-battery.png": {
 		"ft": 32768,
@@ -285,7 +321,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-battery.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-book.png": {
 		"ft": 32768,
@@ -293,7 +332,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-book.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-calendar.png": {
 		"ft": 32768,
@@ -301,7 +343,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-calendar.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-call.png": {
 		"ft": 32768,
@@ -309,7 +354,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-call.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-camera.png": {
 		"ft": 32768,
@@ -317,7 +365,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-camera.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-chat.png": {
 		"ft": 32768,
@@ -325,7 +376,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-chat.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-checkmark.png": {
 		"ft": 32768,
@@ -333,7 +387,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-checkmark.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-clock.png": {
 		"ft": 32768,
@@ -341,7 +398,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-clock.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-close.png": {
 		"ft": 32768,
@@ -349,7 +409,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-close.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-contact.png": {
 		"ft": 32768,
@@ -357,7 +420,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-contact.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-contacts.png": {
 		"ft": 32768,
@@ -365,7 +431,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-contacts.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-data.png": {
 		"ft": 32768,
@@ -373,7 +442,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-data.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-developer.png": {
 		"ft": 32768,
@@ -381,7 +453,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-developer.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-display.png": {
 		"ft": 32768,
@@ -389,7 +464,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-display.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-download.png": {
 		"ft": 32768,
@@ -397,7 +475,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-download.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-drawer.png": {
 		"ft": 32768,
@@ -405,7 +486,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-drawer.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-dropdown.png": {
 		"ft": 32768,
@@ -413,7 +497,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-dropdown.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-earth.png": {
 		"ft": 32768,
@@ -421,7 +508,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-earth.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-folder.png": {
 		"ft": 32768,
@@ -429,7 +519,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-folder.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-forums.png": {
 		"ft": 32768,
@@ -437,7 +530,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-forums.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-friends.png": {
 		"ft": 32768,
@@ -445,7 +541,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-friends.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-hand.png": {
 		"ft": 32768,
@@ -453,7 +552,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-hand.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-image.png": {
 		"ft": 32768,
@@ -461,7 +563,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-image.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-inbox.png": {
 		"ft": 32768,
@@ -469,7 +574,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-inbox.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-information.png": {
 		"ft": 32768,
@@ -477,7 +585,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-information.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-keypad.png": {
 		"ft": 32768,
@@ -485,7 +596,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-keypad.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-lightbulb.png": {
 		"ft": 32768,
@@ -493,7 +607,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-lightbulb.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-locate.png": {
 		"ft": 32768,
@@ -501,7 +618,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-locate.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-location.png": {
 		"ft": 32768,
@@ -509,7 +629,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-location.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-mail.png": {
 		"ft": 32768,
@@ -517,7 +640,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-mail.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-microphone.png": {
 		"ft": 32768,
@@ -525,7 +651,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-microphone.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-mixer.png": {
 		"ft": 32768,
@@ -533,7 +662,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-mixer.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-more.png": {
 		"ft": 32768,
@@ -541,7 +673,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-more.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-note.png": {
 		"ft": 32768,
@@ -549,7 +684,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-note.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-playstore.png": {
 		"ft": 32768,
@@ -557,7 +695,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-playstore.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-printer.png": {
 		"ft": 32768,
@@ -565,7 +706,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-printer.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-promotion.png": {
 		"ft": 32768,
@@ -573,7 +717,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-promotion.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-reminder.png": {
 		"ft": 32768,
@@ -581,7 +728,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-reminder.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-remove.png": {
 		"ft": 32768,
@@ -589,7 +739,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-remove.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-search.png": {
 		"ft": 32768,
@@ -597,7 +750,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-search.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-send.png": {
 		"ft": 32768,
@@ -605,7 +761,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-send.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-settings.png": {
 		"ft": 32768,
@@ -613,7 +772,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-settings.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-share.png": {
 		"ft": 32768,
@@ -621,7 +783,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-share.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-social-user.png": {
 		"ft": 32768,
@@ -629,7 +794,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-social-user.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-social.png": {
 		"ft": 32768,
@@ -637,7 +805,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-social.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-sort.png": {
 		"ft": 32768,
@@ -645,7 +816,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-sort.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-stair-drawer.png": {
 		"ft": 32768,
@@ -653,7 +827,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-stair-drawer.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-star.png": {
 		"ft": 32768,
@@ -661,7 +838,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-star.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-stopwatch.png": {
 		"ft": 32768,
@@ -669,7 +849,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-stopwatch.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-storage.png": {
 		"ft": 32768,
@@ -677,7 +860,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-storage.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-system-back.png": {
 		"ft": 32768,
@@ -685,7 +871,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-system-back.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-system-home.png": {
 		"ft": 32768,
@@ -693,7 +882,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-system-home.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-system-windows.png": {
 		"ft": 32768,
@@ -701,7 +893,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-system-windows.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-timer.png": {
 		"ft": 32768,
@@ -709,7 +904,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-timer.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-trash.png": {
 		"ft": 32768,
@@ -717,7 +915,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-trash.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-user-menu.png": {
 		"ft": 32768,
@@ -725,7 +926,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-user-menu.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-volume.png": {
 		"ft": 32768,
@@ -733,7 +937,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-volume.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/android-wifi.png": {
 		"ft": 32768,
@@ -741,7 +948,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/android-wifi.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/aperture.png": {
 		"ft": 32768,
@@ -749,7 +959,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/aperture.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/archive.png": {
 		"ft": 32768,
@@ -757,7 +970,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/archive.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/arrow-down-a.png": {
 		"ft": 32768,
@@ -765,7 +981,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/arrow-down-a.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/arrow-down-b.png": {
 		"ft": 32768,
@@ -773,7 +992,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/arrow-down-b.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/arrow-down-c.png": {
 		"ft": 32768,
@@ -781,7 +1003,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/arrow-down-c.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/arrow-expand.png": {
 		"ft": 32768,
@@ -789,7 +1014,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/arrow-expand.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/arrow-graph-down-left.png": {
 		"ft": 32768,
@@ -797,7 +1025,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/arrow-graph-down-left.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/arrow-graph-down-right.png": {
 		"ft": 32768,
@@ -805,7 +1036,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/arrow-graph-down-right.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/arrow-graph-up-left.png": {
 		"ft": 32768,
@@ -813,7 +1047,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/arrow-graph-up-left.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/arrow-graph-up-right.png": {
 		"ft": 32768,
@@ -821,7 +1058,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/arrow-graph-up-right.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/arrow-left-a.png": {
 		"ft": 32768,
@@ -829,7 +1069,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/arrow-left-a.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/arrow-left-b.png": {
 		"ft": 32768,
@@ -837,7 +1080,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/arrow-left-b.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/arrow-left-c.png": {
 		"ft": 32768,
@@ -845,7 +1091,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/arrow-left-c.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/arrow-move.png": {
 		"ft": 32768,
@@ -853,7 +1102,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/arrow-move.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/arrow-resize.png": {
 		"ft": 32768,
@@ -861,7 +1113,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/arrow-resize.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/arrow-return-left.png": {
 		"ft": 32768,
@@ -869,7 +1124,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/arrow-return-left.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/arrow-return-right.png": {
 		"ft": 32768,
@@ -877,7 +1135,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/arrow-return-right.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/arrow-right-a.png": {
 		"ft": 32768,
@@ -885,7 +1146,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/arrow-right-a.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/arrow-right-b.png": {
 		"ft": 32768,
@@ -893,7 +1157,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/arrow-right-b.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/arrow-right-c.png": {
 		"ft": 32768,
@@ -901,7 +1168,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/arrow-right-c.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/arrow-shrink.png": {
 		"ft": 32768,
@@ -909,7 +1179,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/arrow-shrink.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/arrow-swap.png": {
 		"ft": 32768,
@@ -917,7 +1190,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/arrow-swap.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/arrow-up-a.png": {
 		"ft": 32768,
@@ -925,7 +1201,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/arrow-up-a.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/arrow-up-b.png": {
 		"ft": 32768,
@@ -933,7 +1212,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/arrow-up-b.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/arrow-up-c.png": {
 		"ft": 32768,
@@ -941,7 +1223,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/arrow-up-c.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/asterisk.png": {
 		"ft": 32768,
@@ -949,7 +1234,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/asterisk.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/at.png": {
 		"ft": 32768,
@@ -957,7 +1245,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/at.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/bag.png": {
 		"ft": 32768,
@@ -965,7 +1256,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/bag.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/battery-charging.png": {
 		"ft": 32768,
@@ -973,7 +1267,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/battery-charging.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/battery-empty.png": {
 		"ft": 32768,
@@ -981,7 +1278,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/battery-empty.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/battery-full.png": {
 		"ft": 32768,
@@ -989,7 +1289,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/battery-full.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/battery-half.png": {
 		"ft": 32768,
@@ -997,7 +1300,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/battery-half.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/battery-low.png": {
 		"ft": 32768,
@@ -1005,7 +1311,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/battery-low.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/beaker.png": {
 		"ft": 32768,
@@ -1013,7 +1322,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/beaker.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/beer.png": {
 		"ft": 32768,
@@ -1021,7 +1333,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/beer.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/bluetooth.png": {
 		"ft": 32768,
@@ -1029,7 +1344,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/bluetooth.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/bonfire.png": {
 		"ft": 32768,
@@ -1037,7 +1355,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/bonfire.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/bookmark.png": {
 		"ft": 32768,
@@ -1045,7 +1366,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/bookmark.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/briefcase.png": {
 		"ft": 32768,
@@ -1053,7 +1377,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/briefcase.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/bug.png": {
 		"ft": 32768,
@@ -1061,7 +1388,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/bug.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/calculator.png": {
 		"ft": 32768,
@@ -1069,7 +1399,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/calculator.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/calendar.png": {
 		"ft": 32768,
@@ -1077,7 +1410,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/calendar.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/camera.png": {
 		"ft": 32768,
@@ -1085,7 +1421,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/camera.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/card.png": {
 		"ft": 32768,
@@ -1093,7 +1432,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/card.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/cash.png": {
 		"ft": 32768,
@@ -1101,7 +1443,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/cash.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/chatbox-working.png": {
 		"ft": 32768,
@@ -1109,7 +1454,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/chatbox-working.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/chatbox.png": {
 		"ft": 32768,
@@ -1117,7 +1465,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/chatbox.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/chatboxes.png": {
 		"ft": 32768,
@@ -1125,7 +1476,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/chatboxes.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/chatbubble-working.png": {
 		"ft": 32768,
@@ -1133,7 +1487,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/chatbubble-working.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/chatbubble.png": {
 		"ft": 32768,
@@ -1141,7 +1498,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/chatbubble.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/chatbubbles.png": {
 		"ft": 32768,
@@ -1149,7 +1509,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/chatbubbles.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/checkmark-circled.png": {
 		"ft": 32768,
@@ -1157,7 +1520,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/checkmark-circled.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/checkmark-round.png": {
 		"ft": 32768,
@@ -1165,7 +1531,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/checkmark-round.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/checkmark.png": {
 		"ft": 32768,
@@ -1173,7 +1542,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/checkmark.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/chevron-down.png": {
 		"ft": 32768,
@@ -1181,7 +1553,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/chevron-down.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/chevron-left.png": {
 		"ft": 32768,
@@ -1189,7 +1564,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/chevron-left.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/chevron-right.png": {
 		"ft": 32768,
@@ -1197,7 +1575,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/chevron-right.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/chevron-up.png": {
 		"ft": 32768,
@@ -1205,7 +1586,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/chevron-up.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/clipboard.png": {
 		"ft": 32768,
@@ -1213,7 +1597,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/clipboard.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/clock.png": {
 		"ft": 32768,
@@ -1221,7 +1608,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/clock.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/close-circled.png": {
 		"ft": 32768,
@@ -1229,7 +1619,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/close-circled.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/close-round.png": {
 		"ft": 32768,
@@ -1237,7 +1630,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/close-round.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/close.png": {
 		"ft": 32768,
@@ -1245,7 +1641,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/close.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/closed-captioning.png": {
 		"ft": 32768,
@@ -1253,7 +1652,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/closed-captioning.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/cloud.png": {
 		"ft": 32768,
@@ -1261,7 +1663,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/cloud.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/code-download.png": {
 		"ft": 32768,
@@ -1269,7 +1674,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/code-download.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/code-working.png": {
 		"ft": 32768,
@@ -1277,7 +1685,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/code-working.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/code.png": {
 		"ft": 32768,
@@ -1285,7 +1696,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/code.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/coffee.png": {
 		"ft": 32768,
@@ -1293,7 +1707,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/coffee.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/compass.png": {
 		"ft": 32768,
@@ -1301,7 +1718,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/compass.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/compose.png": {
 		"ft": 32768,
@@ -1309,7 +1729,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/compose.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/connection-bars.png": {
 		"ft": 32768,
@@ -1317,7 +1740,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/connection-bars.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/contrast.png": {
 		"ft": 32768,
@@ -1325,7 +1751,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/contrast.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/cube.png": {
 		"ft": 32768,
@@ -1333,7 +1762,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/cube.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/disc.png": {
 		"ft": 32768,
@@ -1341,7 +1773,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/disc.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/document-text.png": {
 		"ft": 32768,
@@ -1349,7 +1784,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/document-text.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/document.png": {
 		"ft": 32768,
@@ -1357,7 +1795,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/document.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/drag.png": {
 		"ft": 32768,
@@ -1365,7 +1806,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/drag.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/earth.png": {
 		"ft": 32768,
@@ -1373,7 +1817,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/earth.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/edit.png": {
 		"ft": 32768,
@@ -1381,7 +1828,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/edit.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/egg.png": {
 		"ft": 32768,
@@ -1389,7 +1839,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/egg.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/eject.png": {
 		"ft": 32768,
@@ -1397,7 +1850,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/eject.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/email.png": {
 		"ft": 32768,
@@ -1405,7 +1861,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/email.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/eye-disabled.png": {
 		"ft": 32768,
@@ -1413,7 +1872,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/eye-disabled.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/eye.png": {
 		"ft": 32768,
@@ -1421,7 +1883,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/eye.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/female.png": {
 		"ft": 32768,
@@ -1429,7 +1894,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/female.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/filing.png": {
 		"ft": 32768,
@@ -1437,7 +1905,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/filing.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/film-marker.png": {
 		"ft": 32768,
@@ -1445,7 +1916,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/film-marker.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/fireball.png": {
 		"ft": 32768,
@@ -1453,7 +1927,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/fireball.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/flag.png": {
 		"ft": 32768,
@@ -1461,7 +1938,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/flag.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/flame.png": {
 		"ft": 32768,
@@ -1469,7 +1949,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/flame.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/flash-off.png": {
 		"ft": 32768,
@@ -1477,7 +1960,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/flash-off.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/flash.png": {
 		"ft": 32768,
@@ -1485,7 +1971,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/flash.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/flask.png": {
 		"ft": 32768,
@@ -1493,7 +1982,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/flask.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/folder.png": {
 		"ft": 32768,
@@ -1501,7 +1993,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/folder.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/fork-repo.png": {
 		"ft": 32768,
@@ -1509,7 +2004,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/fork-repo.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/fork.png": {
 		"ft": 32768,
@@ -1517,7 +2015,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/fork.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/forward.png": {
 		"ft": 32768,
@@ -1525,7 +2026,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/forward.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/funnel.png": {
 		"ft": 32768,
@@ -1533,7 +2037,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/funnel.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/game-controller-a.png": {
 		"ft": 32768,
@@ -1541,7 +2048,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/game-controller-a.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/game-controller-b.png": {
 		"ft": 32768,
@@ -1549,7 +2059,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/game-controller-b.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/gear-a.png": {
 		"ft": 32768,
@@ -1557,7 +2070,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/gear-a.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/gear-b.png": {
 		"ft": 32768,
@@ -1565,7 +2081,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/gear-b.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/grid.png": {
 		"ft": 32768,
@@ -1573,7 +2092,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/grid.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/hammer.png": {
 		"ft": 32768,
@@ -1581,7 +2103,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/hammer.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/happy.png": {
 		"ft": 32768,
@@ -1589,7 +2114,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/happy.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/headphone.png": {
 		"ft": 32768,
@@ -1597,7 +2125,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/headphone.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/heart-broken.png": {
 		"ft": 32768,
@@ -1605,7 +2136,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/heart-broken.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/heart.png": {
 		"ft": 32768,
@@ -1613,7 +2147,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/heart.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/help-buoy.png": {
 		"ft": 32768,
@@ -1621,7 +2158,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/help-buoy.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/help-circled.png": {
 		"ft": 32768,
@@ -1629,7 +2169,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/help-circled.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/help.png": {
 		"ft": 32768,
@@ -1637,7 +2180,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/help.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/home.png": {
 		"ft": 32768,
@@ -1645,7 +2191,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/home.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/icecream.png": {
 		"ft": 32768,
@@ -1653,7 +2202,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/icecream.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/icon-social-google-plus-outline.png": {
 		"ft": 32768,
@@ -1661,7 +2213,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/icon-social-google-plus-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/icon-social-google-plus.png": {
 		"ft": 32768,
@@ -1669,7 +2224,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/icon-social-google-plus.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/image.png": {
 		"ft": 32768,
@@ -1677,7 +2235,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/image.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/images.png": {
 		"ft": 32768,
@@ -1685,7 +2246,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/images.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/information-circled.png": {
 		"ft": 32768,
@@ -1693,7 +2257,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/information-circled.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/information.png": {
 		"ft": 32768,
@@ -1701,7 +2268,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/information.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ionic.png": {
 		"ft": 32768,
@@ -1709,7 +2279,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ionic.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-alarm-outline.png": {
 		"ft": 32768,
@@ -1717,7 +2290,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-alarm-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-alarm.png": {
 		"ft": 32768,
@@ -1725,7 +2301,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-alarm.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-albums-outline.png": {
 		"ft": 32768,
@@ -1733,7 +2312,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-albums-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-albums.png": {
 		"ft": 32768,
@@ -1741,7 +2323,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-albums.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-americanfootball-outline.png": {
 		"ft": 32768,
@@ -1749,7 +2334,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-americanfootball-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-americanfootball.png": {
 		"ft": 32768,
@@ -1757,7 +2345,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-americanfootball.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-analytics-outline.png": {
 		"ft": 32768,
@@ -1765,7 +2356,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-analytics-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-analytics.png": {
 		"ft": 32768,
@@ -1773,7 +2367,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-analytics.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-arrow-back.png": {
 		"ft": 32768,
@@ -1781,7 +2378,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-arrow-back.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-arrow-down.png": {
 		"ft": 32768,
@@ -1789,7 +2389,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-arrow-down.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-arrow-forward.png": {
 		"ft": 32768,
@@ -1797,7 +2400,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-arrow-forward.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-arrow-left.png": {
 		"ft": 32768,
@@ -1805,7 +2411,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-arrow-left.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-arrow-right.png": {
 		"ft": 32768,
@@ -1813,7 +2422,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-arrow-right.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-arrow-thin-down.png": {
 		"ft": 32768,
@@ -1821,7 +2433,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-arrow-thin-down.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-arrow-thin-left.png": {
 		"ft": 32768,
@@ -1829,7 +2444,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-arrow-thin-left.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-arrow-thin-right.png": {
 		"ft": 32768,
@@ -1837,7 +2455,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-arrow-thin-right.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-arrow-thin-up.png": {
 		"ft": 32768,
@@ -1845,7 +2466,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-arrow-thin-up.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-arrow-up.png": {
 		"ft": 32768,
@@ -1853,7 +2477,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-arrow-up.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-at-outline.png": {
 		"ft": 32768,
@@ -1861,7 +2488,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-at-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-at.png": {
 		"ft": 32768,
@@ -1869,7 +2499,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-at.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-barcode-outline.png": {
 		"ft": 32768,
@@ -1877,7 +2510,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-barcode-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-barcode.png": {
 		"ft": 32768,
@@ -1885,7 +2521,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-barcode.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-baseball-outline.png": {
 		"ft": 32768,
@@ -1893,7 +2532,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-baseball-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-baseball.png": {
 		"ft": 32768,
@@ -1901,7 +2543,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-baseball.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-basketball-outline.png": {
 		"ft": 32768,
@@ -1909,7 +2554,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-basketball-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-basketball.png": {
 		"ft": 32768,
@@ -1917,7 +2565,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-basketball.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-bell-outline.png": {
 		"ft": 32768,
@@ -1925,7 +2576,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-bell-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-bell.png": {
 		"ft": 32768,
@@ -1933,7 +2587,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-bell.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-bolt-outline.png": {
 		"ft": 32768,
@@ -1941,7 +2598,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-bolt-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-bolt.png": {
 		"ft": 32768,
@@ -1949,7 +2609,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-bolt.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-bookmarks-outline.png": {
 		"ft": 32768,
@@ -1957,7 +2620,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-bookmarks-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-bookmarks.png": {
 		"ft": 32768,
@@ -1965,7 +2631,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-bookmarks.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-box-outline.png": {
 		"ft": 32768,
@@ -1973,7 +2642,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-box-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-box.png": {
 		"ft": 32768,
@@ -1981,7 +2653,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-box.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-briefcase-outline.png": {
 		"ft": 32768,
@@ -1989,7 +2664,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-briefcase-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-briefcase.png": {
 		"ft": 32768,
@@ -1997,7 +2675,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-briefcase.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-browsers-outline.png": {
 		"ft": 32768,
@@ -2005,7 +2686,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-browsers-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-browsers.png": {
 		"ft": 32768,
@@ -2013,7 +2697,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-browsers.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-calculator-outline.png": {
 		"ft": 32768,
@@ -2021,7 +2708,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-calculator-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-calculator.png": {
 		"ft": 32768,
@@ -2029,7 +2719,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-calculator.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-calendar-outline.png": {
 		"ft": 32768,
@@ -2037,7 +2730,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-calendar-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-calendar.png": {
 		"ft": 32768,
@@ -2045,7 +2741,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-calendar.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-camera-outline.png": {
 		"ft": 32768,
@@ -2053,7 +2752,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-camera-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-camera.png": {
 		"ft": 32768,
@@ -2061,7 +2763,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-camera.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-cart-outline.png": {
 		"ft": 32768,
@@ -2069,7 +2774,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-cart-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-cart.png": {
 		"ft": 32768,
@@ -2077,7 +2785,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-cart.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-chatboxes-outline.png": {
 		"ft": 32768,
@@ -2085,7 +2796,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-chatboxes-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-chatboxes.png": {
 		"ft": 32768,
@@ -2093,7 +2807,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-chatboxes.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-chatbubble-outline.png": {
 		"ft": 32768,
@@ -2101,7 +2818,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-chatbubble-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-chatbubble.png": {
 		"ft": 32768,
@@ -2109,7 +2829,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-chatbubble.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-checkmark-empty.png": {
 		"ft": 32768,
@@ -2117,7 +2840,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-checkmark-empty.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-checkmark-outline.png": {
 		"ft": 32768,
@@ -2125,7 +2851,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-checkmark-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-checkmark.png": {
 		"ft": 32768,
@@ -2133,7 +2862,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-checkmark.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-circle-filled.png": {
 		"ft": 32768,
@@ -2141,7 +2873,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-circle-filled.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-circle-outline.png": {
 		"ft": 32768,
@@ -2149,7 +2884,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-circle-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-clock-outline.png": {
 		"ft": 32768,
@@ -2157,7 +2895,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-clock-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-clock.png": {
 		"ft": 32768,
@@ -2165,7 +2906,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-clock.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-close-empty.png": {
 		"ft": 32768,
@@ -2173,7 +2917,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-close-empty.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-close-outline.png": {
 		"ft": 32768,
@@ -2181,7 +2928,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-close-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-close.png": {
 		"ft": 32768,
@@ -2189,7 +2939,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-close.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-cloud-download-outline.png": {
 		"ft": 32768,
@@ -2197,7 +2950,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-cloud-download-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-cloud-download.png": {
 		"ft": 32768,
@@ -2205,7 +2961,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-cloud-download.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-cloud-outline.png": {
 		"ft": 32768,
@@ -2213,7 +2972,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-cloud-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-cloud-upload-outline.png": {
 		"ft": 32768,
@@ -2221,7 +2983,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-cloud-upload-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-cloud-upload.png": {
 		"ft": 32768,
@@ -2229,7 +2994,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-cloud-upload.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-cloud.png": {
 		"ft": 32768,
@@ -2237,7 +3005,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-cloud.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-cloudy-night-outline.png": {
 		"ft": 32768,
@@ -2245,7 +3016,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-cloudy-night-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-cloudy-night.png": {
 		"ft": 32768,
@@ -2253,7 +3027,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-cloudy-night.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-cloudy-outline.png": {
 		"ft": 32768,
@@ -2261,7 +3038,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-cloudy-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-cloudy.png": {
 		"ft": 32768,
@@ -2269,7 +3049,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-cloudy.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-cog-outline.png": {
 		"ft": 32768,
@@ -2277,7 +3060,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-cog-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-cog.png": {
 		"ft": 32768,
@@ -2285,7 +3071,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-cog.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-compose-outline.png": {
 		"ft": 32768,
@@ -2293,7 +3082,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-compose-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-compose.png": {
 		"ft": 32768,
@@ -2301,7 +3093,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-compose.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-contact-outline.png": {
 		"ft": 32768,
@@ -2309,7 +3104,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-contact-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-contact.png": {
 		"ft": 32768,
@@ -2317,7 +3115,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-contact.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-copy-outline.png": {
 		"ft": 32768,
@@ -2325,7 +3126,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-copy-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-copy.png": {
 		"ft": 32768,
@@ -2333,7 +3137,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-copy.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-download-outline.png": {
 		"ft": 32768,
@@ -2341,7 +3148,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-download-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-download.png": {
 		"ft": 32768,
@@ -2349,7 +3159,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-download.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-drag.png": {
 		"ft": 32768,
@@ -2357,7 +3170,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-drag.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-email-outline.png": {
 		"ft": 32768,
@@ -2365,7 +3181,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-email-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-email.png": {
 		"ft": 32768,
@@ -2373,7 +3192,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-email.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-expand.png": {
 		"ft": 32768,
@@ -2381,7 +3203,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-expand.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-eye-outline.png": {
 		"ft": 32768,
@@ -2389,7 +3214,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-eye-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-eye.png": {
 		"ft": 32768,
@@ -2397,7 +3225,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-eye.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-fastforward-outline.png": {
 		"ft": 32768,
@@ -2405,7 +3236,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-fastforward-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-fastforward.png": {
 		"ft": 32768,
@@ -2413,7 +3247,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-fastforward.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-filing-outline.png": {
 		"ft": 32768,
@@ -2421,7 +3258,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-filing-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-filing.png": {
 		"ft": 32768,
@@ -2429,7 +3269,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-filing.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-film-outline.png": {
 		"ft": 32768,
@@ -2437,7 +3280,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-film-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-film.png": {
 		"ft": 32768,
@@ -2445,7 +3291,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-film.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-flag-outline.png": {
 		"ft": 32768,
@@ -2453,7 +3302,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-flag-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-flag.png": {
 		"ft": 32768,
@@ -2461,7 +3313,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-flag.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-folder-outline.png": {
 		"ft": 32768,
@@ -2469,7 +3324,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-folder-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-folder.png": {
 		"ft": 32768,
@@ -2477,7 +3335,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-folder.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-football-outline.png": {
 		"ft": 32768,
@@ -2485,7 +3346,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-football-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-football.png": {
 		"ft": 32768,
@@ -2493,7 +3357,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-football.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-gear-outline.png": {
 		"ft": 32768,
@@ -2501,7 +3368,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-gear-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-gear.png": {
 		"ft": 32768,
@@ -2509,7 +3379,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-gear.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-glasses-outline.png": {
 		"ft": 32768,
@@ -2517,7 +3390,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-glasses-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-glasses.png": {
 		"ft": 32768,
@@ -2525,7 +3401,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-glasses.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-heart-outline.png": {
 		"ft": 32768,
@@ -2533,7 +3412,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-heart-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-heart.png": {
 		"ft": 32768,
@@ -2541,7 +3423,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-heart.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-help-empty.png": {
 		"ft": 32768,
@@ -2549,7 +3434,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-help-empty.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-help-outline.png": {
 		"ft": 32768,
@@ -2557,7 +3445,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-help-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-help.png": {
 		"ft": 32768,
@@ -2565,7 +3456,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-help.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-home-outline.png": {
 		"ft": 32768,
@@ -2573,7 +3467,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-home-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-home.png": {
 		"ft": 32768,
@@ -2581,7 +3478,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-home.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-infinite-outline.png": {
 		"ft": 32768,
@@ -2589,7 +3489,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-infinite-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-infinite.png": {
 		"ft": 32768,
@@ -2597,7 +3500,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-infinite.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-information-empty.png": {
 		"ft": 32768,
@@ -2605,7 +3511,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-information-empty.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-information-outline.png": {
 		"ft": 32768,
@@ -2613,7 +3522,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-information-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-information.png": {
 		"ft": 32768,
@@ -2621,7 +3533,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-information.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-ionic-outline.png": {
 		"ft": 32768,
@@ -2629,7 +3544,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-ionic-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-keypad-outline.png": {
 		"ft": 32768,
@@ -2637,7 +3555,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-keypad-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-keypad.png": {
 		"ft": 32768,
@@ -2645,7 +3566,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-keypad.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-lightbulb-outline.png": {
 		"ft": 32768,
@@ -2653,7 +3577,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-lightbulb-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-lightbulb.png": {
 		"ft": 32768,
@@ -2661,7 +3588,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-lightbulb.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-location-outline.png": {
 		"ft": 32768,
@@ -2669,7 +3599,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-location-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-location.png": {
 		"ft": 32768,
@@ -2677,7 +3610,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-location.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-locked-outline.png": {
 		"ft": 32768,
@@ -2685,7 +3621,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-locked-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-locked.png": {
 		"ft": 32768,
@@ -2693,7 +3632,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-locked.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-loop-strong.png": {
 		"ft": 32768,
@@ -2701,7 +3643,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-loop-strong.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-loop.png": {
 		"ft": 32768,
@@ -2709,7 +3654,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-loop.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-medkit-outline.png": {
 		"ft": 32768,
@@ -2717,7 +3665,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-medkit-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-medkit.png": {
 		"ft": 32768,
@@ -2725,7 +3676,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-medkit.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-mic-off.png": {
 		"ft": 32768,
@@ -2733,7 +3687,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-mic-off.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-mic-outline.png": {
 		"ft": 32768,
@@ -2741,7 +3698,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-mic-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-mic.png": {
 		"ft": 32768,
@@ -2749,7 +3709,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-mic.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-minus-empty.png": {
 		"ft": 32768,
@@ -2757,7 +3720,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-minus-empty.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-minus-outline.png": {
 		"ft": 32768,
@@ -2765,7 +3731,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-minus-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-minus.png": {
 		"ft": 32768,
@@ -2773,7 +3742,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-minus.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-monitor-outline.png": {
 		"ft": 32768,
@@ -2781,7 +3753,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-monitor-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-monitor.png": {
 		"ft": 32768,
@@ -2789,7 +3764,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-monitor.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-moon-outline.png": {
 		"ft": 32768,
@@ -2797,7 +3775,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-moon-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-moon.png": {
 		"ft": 32768,
@@ -2805,7 +3786,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-moon.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-more-outline.png": {
 		"ft": 32768,
@@ -2813,7 +3797,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-more-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-more.png": {
 		"ft": 32768,
@@ -2821,7 +3808,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-more.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-musical-note.png": {
 		"ft": 32768,
@@ -2829,7 +3819,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-musical-note.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-musical-notes.png": {
 		"ft": 32768,
@@ -2837,7 +3830,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-musical-notes.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-navigate-outline.png": {
 		"ft": 32768,
@@ -2845,7 +3841,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-navigate-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-navigate.png": {
 		"ft": 32768,
@@ -2853,7 +3852,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-navigate.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-paper-outline.png": {
 		"ft": 32768,
@@ -2861,7 +3863,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-paper-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-paper.png": {
 		"ft": 32768,
@@ -2869,7 +3874,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-paper.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-paperplane-outline.png": {
 		"ft": 32768,
@@ -2877,7 +3885,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-paperplane-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-paperplane.png": {
 		"ft": 32768,
@@ -2885,7 +3896,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-paperplane.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-partlysunny-outline.png": {
 		"ft": 32768,
@@ -2893,7 +3907,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-partlysunny-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-partlysunny.png": {
 		"ft": 32768,
@@ -2901,7 +3918,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-partlysunny.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-pause-outline.png": {
 		"ft": 32768,
@@ -2909,7 +3929,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-pause-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-pause.png": {
 		"ft": 32768,
@@ -2917,7 +3940,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-pause.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-paw-outline.png": {
 		"ft": 32768,
@@ -2925,7 +3951,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-paw-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-paw.png": {
 		"ft": 32768,
@@ -2933,7 +3962,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-paw.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-people-outline.png": {
 		"ft": 32768,
@@ -2941,7 +3973,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-people-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-people.png": {
 		"ft": 32768,
@@ -2949,7 +3984,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-people.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-person-outline.png": {
 		"ft": 32768,
@@ -2957,7 +3995,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-person-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-person.png": {
 		"ft": 32768,
@@ -2965,7 +4006,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-person.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-personadd-outline.png": {
 		"ft": 32768,
@@ -2973,7 +4017,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-personadd-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-personadd.png": {
 		"ft": 32768,
@@ -2981,7 +4028,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-personadd.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-photos-outline.png": {
 		"ft": 32768,
@@ -2989,7 +4039,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-photos-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-photos.png": {
 		"ft": 32768,
@@ -2997,7 +4050,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-photos.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-pie-outline.png": {
 		"ft": 32768,
@@ -3005,7 +4061,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-pie-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-pie.png": {
 		"ft": 32768,
@@ -3013,7 +4072,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-pie.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-play-outline.png": {
 		"ft": 32768,
@@ -3021,7 +4083,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-play-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-play.png": {
 		"ft": 32768,
@@ -3029,7 +4094,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-play.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-plus-empty.png": {
 		"ft": 32768,
@@ -3037,7 +4105,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-plus-empty.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-plus-outline.png": {
 		"ft": 32768,
@@ -3045,7 +4116,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-plus-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-plus.png": {
 		"ft": 32768,
@@ -3053,7 +4127,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-plus.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-pricetag-outline.png": {
 		"ft": 32768,
@@ -3061,7 +4138,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-pricetag-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-pricetag.png": {
 		"ft": 32768,
@@ -3069,7 +4149,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-pricetag.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-pricetags-outline.png": {
 		"ft": 32768,
@@ -3077,7 +4160,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-pricetags-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-pricetags.png": {
 		"ft": 32768,
@@ -3085,7 +4171,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-pricetags.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-printer-outline.png": {
 		"ft": 32768,
@@ -3093,7 +4182,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-printer-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-printer.png": {
 		"ft": 32768,
@@ -3101,7 +4193,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-printer.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-pulse-strong.png": {
 		"ft": 32768,
@@ -3109,7 +4204,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-pulse-strong.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-pulse.png": {
 		"ft": 32768,
@@ -3117,7 +4215,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-pulse.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-rainy-outline.png": {
 		"ft": 32768,
@@ -3125,7 +4226,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-rainy-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-rainy.png": {
 		"ft": 32768,
@@ -3133,7 +4237,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-rainy.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-recording-outline.png": {
 		"ft": 32768,
@@ -3141,7 +4248,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-recording-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-recording.png": {
 		"ft": 32768,
@@ -3149,7 +4259,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-recording.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-redo-outline.png": {
 		"ft": 32768,
@@ -3157,7 +4270,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-redo-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-redo.png": {
 		"ft": 32768,
@@ -3165,7 +4281,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-redo.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-refresh-empty.png": {
 		"ft": 32768,
@@ -3173,7 +4292,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-refresh-empty.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-refresh-outline.png": {
 		"ft": 32768,
@@ -3181,7 +4303,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-refresh-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-refresh.png": {
 		"ft": 32768,
@@ -3189,7 +4314,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-refresh.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-reload.png": {
 		"ft": 32768,
@@ -3197,7 +4325,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-reload.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-reverse-camera-outline.png": {
 		"ft": 32768,
@@ -3205,7 +4336,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-reverse-camera-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-reverse-camera.png": {
 		"ft": 32768,
@@ -3213,7 +4347,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-reverse-camera.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-rewind-outline.png": {
 		"ft": 32768,
@@ -3221,7 +4358,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-rewind-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-rewind.png": {
 		"ft": 32768,
@@ -3229,7 +4369,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-rewind.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-search-strong.png": {
 		"ft": 32768,
@@ -3237,7 +4380,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-search-strong.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-search.png": {
 		"ft": 32768,
@@ -3245,7 +4391,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-search.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-settings-strong.png": {
 		"ft": 32768,
@@ -3253,7 +4402,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-settings-strong.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-settings.png": {
 		"ft": 32768,
@@ -3261,7 +4413,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-settings.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-shrink.png": {
 		"ft": 32768,
@@ -3269,7 +4424,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-shrink.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-skipbackward-outline.png": {
 		"ft": 32768,
@@ -3277,7 +4435,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-skipbackward-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-skipbackward.png": {
 		"ft": 32768,
@@ -3285,7 +4446,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-skipbackward.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-skipforward-outline.png": {
 		"ft": 32768,
@@ -3293,7 +4457,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-skipforward-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-skipforward.png": {
 		"ft": 32768,
@@ -3301,7 +4468,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-skipforward.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-snowy.png": {
 		"ft": 32768,
@@ -3309,7 +4479,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-snowy.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-speedometer-outline.png": {
 		"ft": 32768,
@@ -3317,7 +4490,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-speedometer-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-speedometer.png": {
 		"ft": 32768,
@@ -3325,7 +4501,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-speedometer.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-star-half.png": {
 		"ft": 32768,
@@ -3333,7 +4512,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-star-half.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-star-outline.png": {
 		"ft": 32768,
@@ -3341,7 +4523,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-star-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-star.png": {
 		"ft": 32768,
@@ -3349,7 +4534,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-star.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-stopwatch-outline.png": {
 		"ft": 32768,
@@ -3357,7 +4545,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-stopwatch-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-stopwatch.png": {
 		"ft": 32768,
@@ -3365,7 +4556,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-stopwatch.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-sunny-outline.png": {
 		"ft": 32768,
@@ -3373,7 +4567,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-sunny-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-sunny.png": {
 		"ft": 32768,
@@ -3381,7 +4578,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-sunny.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-telephone-outline.png": {
 		"ft": 32768,
@@ -3389,7 +4589,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-telephone-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-telephone.png": {
 		"ft": 32768,
@@ -3397,7 +4600,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-telephone.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-tennisball-outline.png": {
 		"ft": 32768,
@@ -3405,7 +4611,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-tennisball-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-tennisball.png": {
 		"ft": 32768,
@@ -3413,7 +4622,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-tennisball.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-thunderstorm-outline.png": {
 		"ft": 32768,
@@ -3421,7 +4633,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-thunderstorm-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-thunderstorm.png": {
 		"ft": 32768,
@@ -3429,7 +4644,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-thunderstorm.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-time-outline.png": {
 		"ft": 32768,
@@ -3437,7 +4655,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-time-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-time.png": {
 		"ft": 32768,
@@ -3445,7 +4666,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-time.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-timer-outline.png": {
 		"ft": 32768,
@@ -3453,7 +4677,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-timer-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-timer.png": {
 		"ft": 32768,
@@ -3461,7 +4688,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-timer.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-toggle-outline.png": {
 		"ft": 32768,
@@ -3469,7 +4699,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-toggle-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-toggle.png": {
 		"ft": 32768,
@@ -3477,7 +4710,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-toggle.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-trash-outline.png": {
 		"ft": 32768,
@@ -3485,7 +4721,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-trash-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-trash.png": {
 		"ft": 32768,
@@ -3493,7 +4732,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-trash.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-undo-outline.png": {
 		"ft": 32768,
@@ -3501,7 +4743,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-undo-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-undo.png": {
 		"ft": 32768,
@@ -3509,7 +4754,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-undo.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-unlocked-outline.png": {
 		"ft": 32768,
@@ -3517,7 +4765,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-unlocked-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-unlocked.png": {
 		"ft": 32768,
@@ -3525,7 +4776,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-unlocked.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-upload-outline.png": {
 		"ft": 32768,
@@ -3533,7 +4787,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-upload-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-upload.png": {
 		"ft": 32768,
@@ -3541,7 +4798,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-upload.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-videocam-outline.png": {
 		"ft": 32768,
@@ -3549,7 +4809,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-videocam-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-videocam.png": {
 		"ft": 32768,
@@ -3557,7 +4820,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-videocam.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-volume-high.png": {
 		"ft": 32768,
@@ -3565,7 +4831,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-volume-high.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-volume-low.png": {
 		"ft": 32768,
@@ -3573,7 +4842,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-volume-low.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-wineglass-outline.png": {
 		"ft": 32768,
@@ -3581,7 +4853,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-wineglass-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-wineglass.png": {
 		"ft": 32768,
@@ -3589,7 +4864,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-wineglass.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-world-outline.png": {
 		"ft": 32768,
@@ -3597,7 +4875,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-world-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ios7-world.png": {
 		"ft": 32768,
@@ -3605,7 +4886,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ios7-world.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ipad.png": {
 		"ft": 32768,
@@ -3613,7 +4897,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ipad.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/iphone.png": {
 		"ft": 32768,
@@ -3621,7 +4908,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/iphone.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ipod.png": {
 		"ft": 32768,
@@ -3629,7 +4919,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ipod.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/jet.png": {
 		"ft": 32768,
@@ -3637,7 +4930,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/jet.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/key.png": {
 		"ft": 32768,
@@ -3645,7 +4941,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/key.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/knife.png": {
 		"ft": 32768,
@@ -3653,7 +4952,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/knife.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/laptop.png": {
 		"ft": 32768,
@@ -3661,7 +4963,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/laptop.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/leaf.png": {
 		"ft": 32768,
@@ -3669,7 +4974,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/leaf.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/levels.png": {
 		"ft": 32768,
@@ -3677,7 +4985,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/levels.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/lightbulb.png": {
 		"ft": 32768,
@@ -3685,7 +4996,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/lightbulb.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/link.png": {
 		"ft": 32768,
@@ -3693,7 +5007,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/link.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/load-a.png": {
 		"ft": 32768,
@@ -3701,7 +5018,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/load-a.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/load-b.png": {
 		"ft": 32768,
@@ -3709,7 +5029,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/load-b.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/load-c.png": {
 		"ft": 32768,
@@ -3717,7 +5040,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/load-c.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/load-d.png": {
 		"ft": 32768,
@@ -3725,7 +5051,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/load-d.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/location.png": {
 		"ft": 32768,
@@ -3733,7 +5062,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/location.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/locked.png": {
 		"ft": 32768,
@@ -3741,7 +5073,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/locked.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/log-in.png": {
 		"ft": 32768,
@@ -3749,7 +5084,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/log-in.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/log-out.png": {
 		"ft": 32768,
@@ -3757,7 +5095,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/log-out.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/loop.png": {
 		"ft": 32768,
@@ -3765,7 +5106,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/loop.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/magnet.png": {
 		"ft": 32768,
@@ -3773,7 +5117,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/magnet.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/male.png": {
 		"ft": 32768,
@@ -3781,7 +5128,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/male.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/man.png": {
 		"ft": 32768,
@@ -3789,7 +5139,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/man.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/map.png": {
 		"ft": 32768,
@@ -3797,7 +5150,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/map.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/medkit.png": {
 		"ft": 32768,
@@ -3805,7 +5161,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/medkit.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/merge.png": {
 		"ft": 32768,
@@ -3813,7 +5172,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/merge.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/mic-a.png": {
 		"ft": 32768,
@@ -3821,7 +5183,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/mic-a.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/mic-b.png": {
 		"ft": 32768,
@@ -3829,7 +5194,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/mic-b.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/mic-c.png": {
 		"ft": 32768,
@@ -3837,7 +5205,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/mic-c.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/minus-circled.png": {
 		"ft": 32768,
@@ -3845,7 +5216,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/minus-circled.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/minus-round.png": {
 		"ft": 32768,
@@ -3853,7 +5227,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/minus-round.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/minus.png": {
 		"ft": 32768,
@@ -3861,7 +5238,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/minus.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/model-s.png": {
 		"ft": 32768,
@@ -3869,7 +5249,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/model-s.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/monitor.png": {
 		"ft": 32768,
@@ -3877,7 +5260,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/monitor.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/more.png": {
 		"ft": 32768,
@@ -3885,7 +5271,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/more.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/mouse.png": {
 		"ft": 32768,
@@ -3893,7 +5282,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/mouse.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/music-note.png": {
 		"ft": 32768,
@@ -3901,7 +5293,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/music-note.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/navicon-round.png": {
 		"ft": 32768,
@@ -3909,7 +5304,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/navicon-round.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/navicon.png": {
 		"ft": 32768,
@@ -3917,7 +5315,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/navicon.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/navigate.png": {
 		"ft": 32768,
@@ -3925,7 +5326,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/navigate.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/network.png": {
 		"ft": 32768,
@@ -3933,7 +5337,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/network.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/no-smoking.png": {
 		"ft": 32768,
@@ -3941,7 +5348,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/no-smoking.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/nuclear.png": {
 		"ft": 32768,
@@ -3949,7 +5359,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/nuclear.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/outlet.png": {
 		"ft": 32768,
@@ -3957,7 +5370,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/outlet.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/paper-airplane.png": {
 		"ft": 32768,
@@ -3965,7 +5381,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/paper-airplane.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/paperclip.png": {
 		"ft": 32768,
@@ -3973,7 +5392,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/paperclip.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/pause.png": {
 		"ft": 32768,
@@ -3981,7 +5403,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/pause.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/person-add.png": {
 		"ft": 32768,
@@ -3989,7 +5414,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/person-add.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/person-stalker.png": {
 		"ft": 32768,
@@ -3997,7 +5425,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/person-stalker.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/person.png": {
 		"ft": 32768,
@@ -4005,7 +5436,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/person.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/pie-graph.png": {
 		"ft": 32768,
@@ -4013,7 +5447,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/pie-graph.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/pin.png": {
 		"ft": 32768,
@@ -4021,7 +5458,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/pin.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/pinpoint.png": {
 		"ft": 32768,
@@ -4029,7 +5469,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/pinpoint.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/pizza.png": {
 		"ft": 32768,
@@ -4037,7 +5480,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/pizza.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/plane.png": {
 		"ft": 32768,
@@ -4045,7 +5491,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/plane.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/planet.png": {
 		"ft": 32768,
@@ -4053,7 +5502,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/planet.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/play.png": {
 		"ft": 32768,
@@ -4061,7 +5513,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/play.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/playstation.png": {
 		"ft": 32768,
@@ -4069,7 +5524,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/playstation.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/plus-circled.png": {
 		"ft": 32768,
@@ -4077,7 +5535,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/plus-circled.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/plus-round.png": {
 		"ft": 32768,
@@ -4085,7 +5546,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/plus-round.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/plus.png": {
 		"ft": 32768,
@@ -4093,7 +5557,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/plus.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/podium.png": {
 		"ft": 32768,
@@ -4101,7 +5568,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/podium.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/pound.png": {
 		"ft": 32768,
@@ -4109,7 +5579,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/pound.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/power.png": {
 		"ft": 32768,
@@ -4117,7 +5590,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/power.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/pricetag.png": {
 		"ft": 32768,
@@ -4125,7 +5601,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/pricetag.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/pricetags.png": {
 		"ft": 32768,
@@ -4133,7 +5612,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/pricetags.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/printer.png": {
 		"ft": 32768,
@@ -4141,7 +5623,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/printer.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/pull-request.png": {
 		"ft": 32768,
@@ -4149,7 +5634,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/pull-request.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/qr-scanner.png": {
 		"ft": 32768,
@@ -4157,7 +5645,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/qr-scanner.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/quote.png": {
 		"ft": 32768,
@@ -4165,7 +5656,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/quote.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/radio-waves.png": {
 		"ft": 32768,
@@ -4173,7 +5667,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/radio-waves.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/record.png": {
 		"ft": 32768,
@@ -4181,7 +5678,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/record.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/refresh.png": {
 		"ft": 32768,
@@ -4189,7 +5689,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/refresh.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/reply-all.png": {
 		"ft": 32768,
@@ -4197,7 +5700,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/reply-all.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/reply.png": {
 		"ft": 32768,
@@ -4205,7 +5711,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/reply.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ribbon-a.png": {
 		"ft": 32768,
@@ -4213,7 +5722,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ribbon-a.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/ribbon-b.png": {
 		"ft": 32768,
@@ -4221,7 +5733,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/ribbon-b.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/sad.png": {
 		"ft": 32768,
@@ -4229,7 +5744,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/sad.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/scissors.png": {
 		"ft": 32768,
@@ -4237,7 +5755,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/scissors.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/search.png": {
 		"ft": 32768,
@@ -4245,7 +5766,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/search.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/settings.png": {
 		"ft": 32768,
@@ -4253,7 +5777,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/settings.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/share.png": {
 		"ft": 32768,
@@ -4261,7 +5788,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/share.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/shuffle.png": {
 		"ft": 32768,
@@ -4269,7 +5799,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/shuffle.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/skip-backward.png": {
 		"ft": 32768,
@@ -4277,7 +5810,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/skip-backward.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/skip-forward.png": {
 		"ft": 32768,
@@ -4285,7 +5821,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/skip-forward.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-android-outline.png": {
 		"ft": 32768,
@@ -4293,7 +5832,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-android-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-android.png": {
 		"ft": 32768,
@@ -4301,7 +5843,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-android.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-apple-outline.png": {
 		"ft": 32768,
@@ -4309,7 +5854,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-apple-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-apple.png": {
 		"ft": 32768,
@@ -4317,7 +5865,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-apple.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-bitcoin-outline.png": {
 		"ft": 32768,
@@ -4325,7 +5876,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-bitcoin-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-bitcoin.png": {
 		"ft": 32768,
@@ -4333,7 +5887,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-bitcoin.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-buffer-outline.png": {
 		"ft": 32768,
@@ -4341,7 +5898,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-buffer-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-buffer.png": {
 		"ft": 32768,
@@ -4349,7 +5909,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-buffer.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-designernews-outline.png": {
 		"ft": 32768,
@@ -4357,7 +5920,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-designernews-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-designernews.png": {
 		"ft": 32768,
@@ -4365,7 +5931,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-designernews.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-dribbble-outline.png": {
 		"ft": 32768,
@@ -4373,7 +5942,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-dribbble-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-dribbble.png": {
 		"ft": 32768,
@@ -4381,7 +5953,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-dribbble.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-dropbox-outline.png": {
 		"ft": 32768,
@@ -4389,7 +5964,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-dropbox-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-dropbox.png": {
 		"ft": 32768,
@@ -4397,7 +5975,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-dropbox.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-facebook-outline.png": {
 		"ft": 32768,
@@ -4405,7 +5986,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-facebook-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-facebook.png": {
 		"ft": 32768,
@@ -4413,7 +5997,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-facebook.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-foursquare-outline.png": {
 		"ft": 32768,
@@ -4421,7 +6008,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-foursquare-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-foursquare.png": {
 		"ft": 32768,
@@ -4429,7 +6019,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-foursquare.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-freebsd-devil.png": {
 		"ft": 32768,
@@ -4437,7 +6030,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-freebsd-devil.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-github-outline.png": {
 		"ft": 32768,
@@ -4445,7 +6041,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-github-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-github.png": {
 		"ft": 32768,
@@ -4453,7 +6052,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-github.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-google-outline.png": {
 		"ft": 32768,
@@ -4461,7 +6063,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-google-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-google.png": {
 		"ft": 32768,
@@ -4469,7 +6074,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-google.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-googleplus-outline.png": {
 		"ft": 32768,
@@ -4477,7 +6085,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-googleplus-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-googleplus.png": {
 		"ft": 32768,
@@ -4485,7 +6096,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-googleplus.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-hackernews-outline.png": {
 		"ft": 32768,
@@ -4493,7 +6107,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-hackernews-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-hackernews.png": {
 		"ft": 32768,
@@ -4501,7 +6118,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-hackernews.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-instagram-outline.png": {
 		"ft": 32768,
@@ -4509,7 +6129,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-instagram-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-instagram.png": {
 		"ft": 32768,
@@ -4517,7 +6140,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-instagram.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-linkedin-outline.png": {
 		"ft": 32768,
@@ -4525,7 +6151,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-linkedin-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-linkedin.png": {
 		"ft": 32768,
@@ -4533,7 +6162,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-linkedin.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-pinterest-outline.png": {
 		"ft": 32768,
@@ -4541,7 +6173,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-pinterest-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-pinterest.png": {
 		"ft": 32768,
@@ -4549,7 +6184,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-pinterest.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-reddit-outline.png": {
 		"ft": 32768,
@@ -4557,7 +6195,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-reddit-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-reddit.png": {
 		"ft": 32768,
@@ -4565,7 +6206,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-reddit.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-rss-outline.png": {
 		"ft": 32768,
@@ -4573,7 +6217,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-rss-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-rss.png": {
 		"ft": 32768,
@@ -4581,7 +6228,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-rss.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-skype-outline.png": {
 		"ft": 32768,
@@ -4589,7 +6239,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-skype-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-skype.png": {
 		"ft": 32768,
@@ -4597,7 +6250,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-skype.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-tumblr-outline.png": {
 		"ft": 32768,
@@ -4605,7 +6261,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-tumblr-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-tumblr.png": {
 		"ft": 32768,
@@ -4613,7 +6272,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-tumblr.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-tux.png": {
 		"ft": 32768,
@@ -4621,7 +6283,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-tux.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-twitter-outline.png": {
 		"ft": 32768,
@@ -4629,7 +6294,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-twitter-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-twitter.png": {
 		"ft": 32768,
@@ -4637,7 +6305,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-twitter.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-usd-outline.png": {
 		"ft": 32768,
@@ -4645,7 +6316,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-usd-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-usd.png": {
 		"ft": 32768,
@@ -4653,7 +6327,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-usd.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-vimeo-outline.png": {
 		"ft": 32768,
@@ -4661,7 +6338,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-vimeo-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-vimeo.png": {
 		"ft": 32768,
@@ -4669,7 +6349,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-vimeo.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-windows-outline.png": {
 		"ft": 32768,
@@ -4677,7 +6360,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-windows-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-windows.png": {
 		"ft": 32768,
@@ -4685,7 +6371,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-windows.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-wordpress-outline.png": {
 		"ft": 32768,
@@ -4693,7 +6382,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-wordpress-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-wordpress.png": {
 		"ft": 32768,
@@ -4701,7 +6393,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-wordpress.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-yahoo-outline.png": {
 		"ft": 32768,
@@ -4709,7 +6404,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-yahoo-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-yahoo.png": {
 		"ft": 32768,
@@ -4717,7 +6415,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-yahoo.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-youtube-outline.png": {
 		"ft": 32768,
@@ -4725,7 +6426,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-youtube-outline.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/social-youtube.png": {
 		"ft": 32768,
@@ -4733,7 +6437,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/social-youtube.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/speakerphone.png": {
 		"ft": 32768,
@@ -4741,7 +6448,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/speakerphone.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/speedometer.png": {
 		"ft": 32768,
@@ -4749,7 +6459,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/speedometer.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/spoon.png": {
 		"ft": 32768,
@@ -4757,7 +6470,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/spoon.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/star.png": {
 		"ft": 32768,
@@ -4765,7 +6481,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/star.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/stats-bars.png": {
 		"ft": 32768,
@@ -4773,7 +6492,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/stats-bars.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/steam.png": {
 		"ft": 32768,
@@ -4781,7 +6503,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/steam.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/stop.png": {
 		"ft": 32768,
@@ -4789,7 +6514,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/stop.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/thermometer.png": {
 		"ft": 32768,
@@ -4797,7 +6525,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/thermometer.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/thumbsdown.png": {
 		"ft": 32768,
@@ -4805,7 +6536,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/thumbsdown.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/thumbsup.png": {
 		"ft": 32768,
@@ -4813,7 +6547,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/thumbsup.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/toggle-filled.png": {
 		"ft": 32768,
@@ -4821,7 +6558,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/toggle-filled.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/toggle.png": {
 		"ft": 32768,
@@ -4829,7 +6569,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/toggle.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/trash-a.png": {
 		"ft": 32768,
@@ -4837,7 +6580,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/trash-a.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/trash-b.png": {
 		"ft": 32768,
@@ -4845,7 +6591,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/trash-b.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/trophy.png": {
 		"ft": 32768,
@@ -4853,7 +6602,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/trophy.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/umbrella.png": {
 		"ft": 32768,
@@ -4861,7 +6613,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/umbrella.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/university.png": {
 		"ft": 32768,
@@ -4869,7 +6624,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/university.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/unlocked.png": {
 		"ft": 32768,
@@ -4877,7 +6635,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/unlocked.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/upload.png": {
 		"ft": 32768,
@@ -4885,7 +6646,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/upload.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/usb.png": {
 		"ft": 32768,
@@ -4893,7 +6657,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/usb.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/videocamera.png": {
 		"ft": 32768,
@@ -4901,7 +6668,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/videocamera.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/volume-high.png": {
 		"ft": 32768,
@@ -4909,7 +6679,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/volume-high.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/volume-low.png": {
 		"ft": 32768,
@@ -4917,7 +6690,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/volume-low.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/volume-medium.png": {
 		"ft": 32768,
@@ -4925,7 +6701,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/volume-medium.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/volume-mute.png": {
 		"ft": 32768,
@@ -4933,7 +6712,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/volume-mute.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/wand.png": {
 		"ft": 32768,
@@ -4941,7 +6723,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/wand.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/waterdrop.png": {
 		"ft": 32768,
@@ -4949,7 +6734,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/waterdrop.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/wifi.png": {
 		"ft": 32768,
@@ -4957,7 +6745,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/wifi.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/wineglass.png": {
 		"ft": 32768,
@@ -4965,7 +6756,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/wineglass.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/woman.png": {
 		"ft": 32768,
@@ -4973,7 +6767,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/woman.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/wrench.png": {
 		"ft": 32768,
@@ -4981,7 +6778,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/wrench.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/png\/512\/xbox.png": {
 		"ft": 32768,
@@ -4989,7 +6789,10 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/Ionicons\/png\/512\/xbox.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/bower_components\/Ionicons\/readme.md": {
 		"cS": 0,
@@ -13116,6 +14919,10 @@
 			"active": 1,
 			"optionString": ""
 			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-cond-assign": {
 			"active": 1,
 			"optionString": "'except-parens'"
@@ -13316,6 +15123,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-multi-assign": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-multi-spaces": {
 			"active": 0,
 			"optionString": "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
@@ -13393,6 +15204,10 @@
 			"optionString": ""
 			},
 		"no-proto": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-prototype-builtins": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -13592,6 +15407,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
 		"object-curly-newline": {
 			"active": 0,
 			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
@@ -13643,6 +15462,10 @@
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -13737,6 +15560,10 @@
 			"optionString": ""
 			},
 		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
 			"active": 0,
 			"optionString": "'never'"
 			},
@@ -14183,7 +16010,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -14206,14 +16034,6 @@
 		"autoOutputPathStyle": 0,
 		"orderOutput": 0,
 		"outputStyle": 1
-		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
 		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
@@ -14276,7 +16096,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"optimizerType": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,
